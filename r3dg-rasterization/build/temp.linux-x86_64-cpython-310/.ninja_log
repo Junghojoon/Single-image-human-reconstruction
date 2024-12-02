@@ -1,0 +1,7 @@
+# ninja log v5
+0	3583	1732626293253102286	/workspace/Mani-GS-main/r3dg-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/forward.o	e68074f261fcaf6b
+0	3865	1732626293533102088	/workspace/Mani-GS-main/r3dg-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/backward.o	e4fbf2092775fb0d
+0	8969	1732626298637098534	/workspace/Mani-GS-main/r3dg-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/rasterizer_impl.o	963d8288e54e8e67
+0	21732	1732626311393089555	/workspace/Mani-GS-main/r3dg-rasterization/build/temp.linux-x86_64-cpython-310/ext.o	7413f792fe301b5f
+0	54101	1732626343765066244	/workspace/Mani-GS-main/r3dg-rasterization/build/temp.linux-x86_64-cpython-310/rasterize_points.o	a9390ea9ed805061
+2	54676	1732626344341065822	/workspace/Mani-GS-main/r3dg-rasterization/build/temp.linux-x86_64-cpython-310/render_equation.o	96c3b0adcbb4d0d8
