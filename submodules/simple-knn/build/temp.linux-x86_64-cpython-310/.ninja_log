@@ -1,0 +1,7 @@
+# ninja log v5
+0	13353	1726761184968499661	/workspace/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	1986335ee1f25ee7
+0	21517	1726761193128461871	/workspace/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	60ee50582ada29ca
+1	52433	1726761224044317086	/workspace/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	613280be04cb8caa
+1	13946	1732626537368913035	/workspace/Mani-GS-main/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	76c519c71757cfed
+0	20842	1732626544264907204	/workspace/Mani-GS-main/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	54bff1ea58cd4087
+20	51169	1732626574588881301	/workspace/Mani-GS-main/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	8f5a095efd9a32b8
